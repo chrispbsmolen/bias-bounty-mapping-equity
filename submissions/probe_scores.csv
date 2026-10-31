@@ -1,0 +1,19 @@
+file,public_rmse,uploaded_utc,note
+all_zeros_sample,0.107246299,2026-10-25T04:30,SampleSubmission uploaded twice by Christopher
+probe_01_B0v2_structural.csv,0.07614818,2026-10-25T15:20,
+probe_02_transport.csv,0.083840814,2026-10-25T15:22,
+probe_06_transport_FM_in_TIGER.csv,0.081853701,2026-10-25T15:24,
+probe_03_facilities.csv,0.093694926,2026-10-26T00:07,
+probe_07_transport_county_fully_in_TIGER.csv,0.083402094,2026-10-26T00:09,
+probe_16_B0v3_transport.csv,0.08300486,2026-10-26T00:11,
+probe_17_strata_nchs.csv,0.088981868,2026-10-26T00:13,
+probe_04_cbp.csv,0.102324377,2026-10-26T00:15,
+cand_LB_blend_2026-10-26.csv,0.068261649,2026-10-27T13:45,refitted blend (transport+facilities+nchs)
+probe_15_transport_TX_only.csv,0.098893332,2026-10-27T13:47,
+probe_21_facilities_rural.csv,0.091951533,2026-10-28T00:10,
+probe_18_strata_ruca.csv,0.097350362,2026-10-28T00:12,
+probe_19_strata_tribal.csv,0.098987557,2026-10-28T00:14,
+probe_05_building.csv,0.103570665,2026-10-28T00:16,
+probe_20_cbp_by_housing.csv,0.115847547,2026-10-28T00:18,
+cand_LB_blend_2026-10-28.csv,0.066832872,2026-10-29T00:07,new best (prev 0.068261649); predicted 0.0655-0.066
+cand_LB_blend_2026-10-28_shrink20.csv,0.067257623,2026-10-29T00:09,shrink20 hedge; +0.00042 vs blend
