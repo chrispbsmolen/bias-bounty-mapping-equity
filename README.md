@@ -9,7 +9,8 @@ Code for Christopher Smolen's entry (Zindi username `csmolen`) in the Zindi Bias
 - `data/MANIFEST.md` lists all 325 provided challenge files with URL, size and sha256. No data is stored in this repository.
 - `submissions/probe_scores.csv` logs every leaderboard upload and its public score, the only inputs to the blend fit.
 - `notes/AI_USE.md` records how Claude (Anthropic) was used. No AI service runs in any pipeline.
-- `REPRODUCE.md` gives the steps from a fresh machine.
+- `REPRODUCE.md` gives the steps from a fresh machine, and `reproduce_finals.sh` rebuilds both final submissions byte for byte in seconds.
+- `submissions/uploaded/` holds every probe file that was uploaded and scored, and `submissions/final/` the two final submissions.
 
 ## Final submissions
 

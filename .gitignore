@@ -3,4 +3,10 @@ __pycache__/
 .DS_Store
 data/*
 !data/MANIFEST.md
-results/
+results/*
+!results/model/
+results/model/*
+!results/model/B0v2_summary.parquet
+!results/model/probe_vectors.parquet
+submissions/candidates/
+*.rebuilt.csv
